@@ -1,0 +1,35 @@
+_repo: The-Back-of-Our-Heads_51823
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Dillon, Leo
+    birthdate: &id001 1933
+    deathdate: 2012
+    gutenberg_agent_id: '32728'
+    url: http://www.gutenberg.org/2009/agents/32728
+  - agent_name: Dillon, Diane
+    alias: Dillon, Diane Claire Sorber
+    birthdate: *id001
+    gutenberg_agent_id: '32729'
+    url: http://www.gutenberg.org/2009/agents/32729
+creator:
+  author:
+    agent_name: Barr, Stephen
+    gutenberg_agent_id: '46361'
+    url: http://www.gutenberg.org/2009/agents/46361
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Back of Our Heads
+url: http://www.gutenberg.org/ebooks/51823
